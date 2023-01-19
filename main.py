@@ -37,3 +37,5 @@ df.to_csv('weather_forecast_penang.csv', index=False)
 print(df)
 print("\nData is successfully exported to csv.")
 
+driver.quit()
+
